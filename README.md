@@ -8,9 +8,11 @@ This project uses Terraform to provision a secure AWS VPC environment with publi
 
 The EC2 instance can be managed through AWS Systems Manager Session Manager without requiring a public IP address or inbound SSH access.
 
-## Architecture
 
-"Terraform AWS VPC SSM Endpoint Architecture" (Architecture.png)
+## Architecture Diagram
+
+![Terraform AWS VPC SSM Endpoint Architecture](Architecture.png)
+
 
 AWS Services Used
 
